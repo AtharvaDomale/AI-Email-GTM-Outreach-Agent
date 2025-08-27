@@ -3,3 +3,4 @@ streamlit
 pydantic
 openai
 exa_py
+pandas
